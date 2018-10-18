@@ -1,8 +1,12 @@
-# make_it_rain
-
-A new Flutter application.
-
 ## Getting Started
+<p> A simple increament and decrement UI with flutter.</p>
+<img src="images/first_ui.png" width="250">
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+<p>First function is increament button with Let it rain</p>
+<img src="images/second_ui.png" width="250">
+
+<p>Second function is increament button with Deduct</p>
+<img src="images/third_ui.png" width="250">
+
+
+
